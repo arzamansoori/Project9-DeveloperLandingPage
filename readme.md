@@ -9,5 +9,5 @@ Hi, I am *Arza Mansoori*.<br>
 ***Time taken :***<br>
 *Took me 12 hours to complete this project.*
 
-[*LiveLink (Netlify)*](https://project9-developerlandingpage.netlify.app/ "Project 7")
+[*LiveLink (Netlify)*](https://project9-developerlandingpage.netlify.app/ "Project 9")
 

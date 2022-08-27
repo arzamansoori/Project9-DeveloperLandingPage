@@ -344,8 +344,8 @@
     padding-top: 90px;
   }
   .faq-content {
-    width: 904px;
-    padding-left: 55px;
+    /* width: 904px;
+    padding-left: 55px; */
   }
   .faq-content h1 {
     font-size: xx-large;

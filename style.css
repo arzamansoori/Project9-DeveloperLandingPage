@@ -337,7 +337,7 @@
 @media only screen and (max-width: 1094px){
   .faq-section {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
@@ -356,7 +356,7 @@
     margin-top: 7px;
     text-align: center;
     width: 500px;
-    margin-left: 185px;
+    /* margin-left: 185px; */
   }
   .faq-content button {
     width: 107px;
@@ -365,7 +365,7 @@
     border: 1px;
     color: white;
     border-radius: 5px;
-    margin-left: 400px;
+    margin-left: 200px;
   }
   .faq-content h4{
     text-align: center;
